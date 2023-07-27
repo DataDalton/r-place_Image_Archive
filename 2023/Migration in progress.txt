@@ -1,5 +1,0 @@
-Hello!
-
-We are working on migrating everything to GitHub to promote a better experience. This will allow us to take in requests more easily as well as push things out to people. It will also encourage more collaboration!
-
-You can find the GitHub here: https://github.com/DataDalton/r-place_Image_Archive
