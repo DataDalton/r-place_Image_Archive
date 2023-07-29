@@ -8,7 +8,7 @@ There is no singular 'final canvas' as everyone thinks there's different points 
 
 Each folder will have the specific details for the images in it, such as if it is 10k x 10k 600 PPI or if it is 15k x 10k 600 PPI, or any other variation
 
-
+<br>
 This was originally in the [Google Drive](https://drive.google.com/drive/folders/1-uaPRUi2_NO6slTmdWGUIPbId8vsLNdW?usp=drive_link) however has been migrated to GitHub to better serve the community.
 
 The Google Drive will still server as a mirror
