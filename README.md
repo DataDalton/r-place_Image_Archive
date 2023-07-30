@@ -6,7 +6,9 @@ We also want to be able to provide every quality for each variation so that ever
 
 There is no singular 'final canvas' as everyone thinks there's different points in time on the canvas which are final
 
-Each folder will have the specific details for the images in it, such as if it is 10k x 10k 600 PPI or if it is 15k x 10k 600 PPI, or any other variation
+<br>
+
+Each folder will have the specific details for the images in it, such as if it is 16k x 16k 600 PPI or if it is 15k x 10k 600 PPI, or any other variation
 
 <br>
 
