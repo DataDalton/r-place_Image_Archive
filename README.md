@@ -13,5 +13,3 @@ Each folder will have the specific details for the images in it, such as if it i
 <br>
 
 This was originally in the [Google Drive](https://drive.google.com/drive/folders/1-uaPRUi2_NO6slTmdWGUIPbId8vsLNdW?usp=drive_link) however has been migrated to GitHub to better serve the community.
-
-The Google Drive will still serve as a mirror
